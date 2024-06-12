@@ -16,7 +16,7 @@ GPA: 89
 
 Skills
 
-Languages: Python, C, C++, Java, JavaScript, HTML, CSS
+Languages: Python, C, C++, Java, JavaScript, HTML, CSS, assembly
 
 Operating Systems: Windows, Linux
 
@@ -24,4 +24,4 @@ Languages: English (Advanced), Hebrew (Native)
 
 Teamwork: Proven experience in collaborative environments
 
-Independent Learning: Strong ability to self-learn and adapt.
+Independent Learning: Strong ability to self-learn and adapt
