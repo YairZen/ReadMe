@@ -16,7 +16,7 @@ GPA: 89
 
 Skills
 
-Languages: Python, C, C++, Java, JavaScript, HTML, CSS, assembly
+Languages: Python, C, C++, Java, JavaScript, HTML, CSS, Assembly, SQL
 
 Operating Systems: Windows, Linux
 
